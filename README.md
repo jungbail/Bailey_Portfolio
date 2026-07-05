@@ -4,4 +4,4 @@ I am a Northeastern ALIGN student current in year 2 of 3 of my Masters in CS pro
 Below are some projects the really showcase how I think, solve problems, and work with outhers.  
 <br>
 [Movie Watchlist Planner](https://github.com/jungbail/MoviePlanner.git) -  
-This application uses [TMDB](https://www.themoviedb.org) and allows users to create watchlists and search for movies using the api.  
+This application uses [TMDB](https://www.themoviedb.org) and allows users to create watchlists and search for movies using the api. This was a collaboration with two other peers and demonstrates key object orientated design principles. 
